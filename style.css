@@ -1,0 +1,216 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+
+.top-container{
+    background-color: rgb(44, 104, 98);
+    padding-top: 20px;
+
+}
+
+.topcloud{
+position: absolute;
+top: 40px; left:600px ;
+padding-left: 400px;
+}
+.bottomcloud{
+    position: relative;
+    bottom: 350px; left: 100px;
+}
+.topheader{
+    color:  turquoise;
+    font-family: 'Sacramento', cursive;
+    font-weight: 10000;
+    font-size: 100px;
+}
+
+.snapchat{
+    padding-top: 100px;
+}
+
+.programmer{
+    color: turquoise;
+    font-weight: 1000;
+    font-size: 40px;
+}
+p{
+    line-height: 1.5;
+}
+.pro{
+    text-decoration: underline;
+}
+
+hr{
+    border:6px dotted ;
+    color:rgb(44, 104, 98);
+    border-bottom: none;
+    width: 26%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.hello{
+    color: turquoise;
+    font-family: 'Supermercado One', cursive;
+    font-weight: 400;
+    font-size: 50px;
+}
+
+.hellointro{    
+    font-family: 'IM Fell Great Primer SC', serif;
+    width: 36%;
+    text-align: center;
+    font-weight: 600;
+    font-size: 120%;
+    margin-left: 450px;
+}
+
+.whaticando{
+    color: turquoise;
+    font-family: 'Supermercado One', cursive;
+    font-weight: 600;
+    font-size: 50px;
+}
+
+.designdev{
+    color: rgb(44, 104, 98);
+    font-family: 'IM Fell Great Primer SC', serif;
+    font-weight: 400;
+    font-size: 25px;
+    margin-right: 600px;
+}
+
+.designdevintro{
+    font-family: 'IM Fell Great Primer SC', serif;
+    width: 36%;
+    text-align: left;
+    font-weight: 600;
+    font-size: 110%;
+    margin-left: 450px;
+    margin-bottom: 100px;
+}
+
+.seocomputer{
+    width: 170px;
+    float: left;
+    padding-left: 250px;
+}
+
+.hotwingchallenge{
+    color: rgb(44, 104, 98);
+    font-family: 'IM Fell Great Primer SC', serif;
+    font-weight: 400;
+    font-size: 25px;
+    margin-right: 600px;
+}
+
+.hotwingchallengeintro{
+    font-family: 'IM Fell Great Primer SC', serif;
+    width: 36%;
+    text-align: left;
+    font-weight: 600;
+    font-size: 110%;
+    margin-left:250px;
+    margin-bottom: 250px;
+}
+
+.responsivepng{
+    width: 170px;
+    float: right;
+    padding-right: 450px;
+}
+
+.getintouch{
+    color: turquoise;
+    font-family: 'Supermercado One', cursive;
+    font-weight: 400;
+    font-size: 50px;
+}
+
+.getintouchsubintro{
+    color: rgb(44, 104, 98);
+    font-family: 'IM Fell Great Primer SC', serif;
+    font-weight: 400;
+    font-size: 25px;
+}
+
+.getintouchintro{
+    font-family: 'IM Fell Great Primer SC', serif;
+    width: 36%;
+    text-align: center;
+    font-weight: 600;
+    font-size: 120%;
+    margin-left: 450px;
+}
+
+.contactme{
+margin-bottom: 100px;
+margin-top: 100px;
+}
+
+.btn{
+    background-color: rgb(36, 180, 206);
+    color: white;
+    text-decoration:none ;
+    padding: 10px 10px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-family:'Supermercado One', cursive;
+}
+
+.btn:hover{
+    background-color: blueviolet;
+}
+
+.accounts{
+    margin-bottom: 10px; 
+    margin-top: 50px;
+    text-decoration: none;
+}
+
+.copy{
+    font-family: 'IM Fell Great Primer SC', serif;
+    width: 36%;
+    text-align: center;
+    font-weight: 600;
+    font-size: 120%;
+    margin-left: 450px;
+    margin-bottom: 50px;
+}
+
+.lastcontainer{
+    background-color: rgb(44, 104, 98);
+    padding: 50px 0 20px;
+    color: white;
+}
+
+.facebook{
+    text-decoration: none;
+    color: turquoise ;
+}
+.twitter{
+    text-decoration: none;
+    color:  turquoise; 
+}
+
+.instagram{
+    text-decoration: none;
+    color: turquoise;
+}
+
+.facebook:hover{
+    color: white;
+    text-decoration: none;
+}
+
+.twitter:hover{
+    color: white;
+    text-decoration: none;
+}
+
+.instagram:hover{
+    color: white;
+    text-decoration: none;
+}
+
